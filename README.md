@@ -1,4 +1,4 @@
-<iframe src="https://player.vimeo.com/video/1000589475" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+[#**PREVIEW**#](https://vimeo.com/1000589475?share=copy)
 
 # rib-vending
 Ribeiro Vending Machine
