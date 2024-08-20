@@ -1,15 +1,15 @@
-[#**PREVIEW**#](https://vimeo.com/1000589475?share=copy)
-
 # rib-vending
 Ribeiro Vending Machine
 
+[**PREVIEW**](https://vimeo.com/1000589475?share=copy)
+
 Description:
-This resource lets you set up and handle vending machine interactions in your server. You can choose between interact and ox_target for interactions and customize how the machines work. It's all about flexibility and ease of use, with the option to expand and add new types of vending machines as you see fit.
+This resource lets you set up and handle vending machine interactions in your server. You can choose between [interact](https://github.com/darktrovx/interact) and [ox_target](https://github.com/overextended/ox_target) for interactions and customize how the machines work. It's all about flexibility and ease of use, with the option to expand and add new types of vending machines as you see fit.
 
 Features:
 Compatible with interact or ox_target
-Uses ox_inventory
-Plays animations with scully_emotemenu
+Uses [ox_inventory](https://github.com/overextended/ox_inventory)
+Plays animations with [scully_emotemenu](https://github.com/Scullyy/scully_emotemenu)
 Easy-to-configure settings for customization
 
 Dependencies:
