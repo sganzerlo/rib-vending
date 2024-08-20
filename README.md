@@ -9,7 +9,9 @@ This resource lets you set up and handle vending machine interactions in your se
 Features:
 Compatible with interact or ox_target
 Uses [ox_inventory](https://github.com/overextended/ox_inventory)
+
 Plays animations with [scully_emotemenu](https://github.com/Scullyy/scully_emotemenu)
+
 Easy-to-configure settings for customization
 
 Dependencies:
